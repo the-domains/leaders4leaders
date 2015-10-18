@@ -1,7 +1,7 @@
-name: null
+name: Leaders4Leaders
 favicon: null
-layout_spectrum: 0.7553491934668273
-typography_spectrum: 0.7591723406221718
+layout_spectrum: 0.54509
+typography_spectrum: 0.53158
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.08668774552643299
+  brandColors:
+    - '#11153f'
+    - '#9ec7b6'
+    - '#000040'
+    - '#aaaaaa'
+    - '#36445c'
+  brandStrength: 0.5
   lightness: 0.0008947672322392464
-  saturation: 0.6383131206966937
+  saturation: 0.625
   rhythmicContrast: 0.25967097328975797
 purpose: []
