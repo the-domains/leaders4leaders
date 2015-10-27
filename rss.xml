@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Platforma skirta skatinti dialogą tarp sėkmės sulaukusių lyderių ir jaunųjų profesionalų.]]></title>
-        <description><![CDATA[Platforma skirta skatinti dialogą tarp sėkmės sulaukusių lyderių ir jaunųjų profesionalų.]]></description>
+        <title><![CDATA[Leaders4Leaders]]></title>
+        <description><![CDATA[Leaders4Leaders]]></description>
         <link>https://thegrid.ai/leaders4leaders/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 18:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 18:18:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leaders4leaders/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/leaders4leaders/b3dac209-3942-46a9-81b4-45eb5afc6c7e/index.html</link>
             <guid isPermaLink="false">b3dac209-3942-46a9-81b4-45eb5afc6c7e</guid>
             <pubDate>Tue, 27 Oct 2015 17:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Leaders4Leaders yra platforma skirta skatinti dialogą ir užmegzti artimesnį ryšį tarp jau sėkmės sulaukusių lyderių ir jaunųjų profesionalų.</p>]]></description>
-            <link>https://www.facebook.com/leaders4leaders/photos/a.915340941867763.1073741829.854527134615811/915340498534474/?type=3</link>
-            <guid isPermaLink="false">dfbf9e67-c5c8-4ddb-979f-518d7c6319a1</guid>
-            <pubDate>Tue, 27 Oct 2015 18:09:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
