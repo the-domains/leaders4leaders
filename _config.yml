@@ -1,7 +1,7 @@
 name: Leaders4Leaders
 favicon: null
-layout_spectrum: 0.54509
-typography_spectrum: 0.53158
+layout_spectrum: 0.17221
+typography_spectrum: 0.72881
 title: Platforma skirta skatinti dialogą tarp sėkmės sulaukusių lyderių ir jaunųjų profesionalų.
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#36445c'
   brandStrength: 0.5
   lightness: 0.0008947672322392464
-  saturation: 0.625
+  saturation: 0.6875
   rhythmicContrast: 0.25967097328975797
 purpose: []
