@@ -17,8 +17,8 @@ keywords:
   - kimmel
   - video
 description: "Surfing video taken from: O'Neill - Munich City Surf Music: Deus X Machina I Had Too Much To Dream Last Night"
-datePublished: '2015-10-27T18:37:53.497Z'
-dateModified: '2015-10-27T18:37:38.424Z'
+datePublished: '2015-11-24T20:59:49.870Z'
+dateModified: '2015-11-24T20:59:41.218Z'
 author:
   - name: Benas Sidlauskas
     url: 'https://www.youtube.com/channel/UCo0VeHbtbhm3gDxe_75JG_A'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=ukNJ90XGzPQ&feature=applinks'
     type: web
 title: 'Mere, mums reikia bangų!'
+sourcePath: _posts/2015-10-27-mere-mums-reikia-bangu.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-10-27-mere-mums-reikia-bangu.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
