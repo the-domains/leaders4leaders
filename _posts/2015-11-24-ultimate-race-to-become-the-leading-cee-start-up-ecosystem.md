@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://medium.com/@Rokas/ultimate-race-to-become-the-leading-cee-start-up-ecosystem-719014fbc0f6#.8beej9e0y'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - start-ups
   - lithuania
@@ -17,8 +17,8 @@ keywords:
   - geographical
   - app
 description: "Lithuania. Many have heard of this country for a number of very different reasons. Whether it's basketball, beautiful women, shimmering Baltic Sea and spectacular dunes in Neringa or the fact that it lies in the geographical centre of Europe. Hmm, wait a second.. W rong reasons, pals."
-datePublished: '2015-11-24T21:00:26.490Z'
-dateModified: '2015-11-24T20:58:20.032Z'
+datePublished: '2015-11-24T21:02:13.101Z'
+dateModified: '2015-11-24T21:00:29.289Z'
 author:
   - name: Rokas Peciulaitis
     url: 'https://medium.com/@Rokas'
